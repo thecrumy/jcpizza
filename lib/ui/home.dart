@@ -15,7 +15,7 @@ class Home extends StatelessWidget {
               style: TextStyle(
                     fontSize: 30.0,
                     decoration: TextDecoration.none,
-                    // font family
+                    // font family - finall worked
                     // font weight
                   ),
               )),
